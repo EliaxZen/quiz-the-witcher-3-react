@@ -1,3 +1,11 @@
+# QUIZ THE WITCHER 3
+## ![Captura de tela 2023-12-09 150921](https://github.com/EliaxZen/quiz-the-witcher-3-react/assets/132005740/c643abb5-f6f5-47b6-8bd6-ab273b3cc815)
+### Atualmente tenho jogado bastante The Witcher 3 no meu tempo livre, tem sido um dos meus jogos favoritos. E eu não podia deixar de fora essa ideia de um jogo sensacional fora dos meus projetos. Decidi fazer esse quiz com a temática do jogo utilizando as novas tecnologias que estou aprendendo, React, Next, TypeScript e TailwindCSS.
+
+<br>
+<br>
+<br>
+<br>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
